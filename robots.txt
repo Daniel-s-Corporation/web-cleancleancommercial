@@ -1,0 +1,32 @@
+# Clean Clean Commercial Cleaning
+# Commercial cleaning services in Bradenton, Sarasota, Lakewood Ranch & Palmetto, Florida
+#
+# Main keywords:
+#   commercial cleaning Bradenton FL
+#   commercial cleaning Sarasota FL
+#   commercial cleaning Lakewood Ranch FL
+#   commercial cleaning Palmetto FL
+#   office cleaning Bradenton
+#   office cleaning Sarasota
+#   office cleaning Lakewood Ranch
+#   janitorial services Bradenton
+#   janitorial services Sarasota
+#   commercial janitorial services
+#   retail and storefront cleaning
+#   medical office cleaning
+#   professional office cleaning
+#   after-hours office cleaning
+#   weekend commercial cleaning
+#   customized cleaning plans
+#   eco-friendly commercial cleaning
+#   insured commercial cleaning company
+#   family-owned cleaning company Florida
+#   free commercial cleaning quote
+#
+# Note: comments are ignored by crawlers; keywords are listed here for reference.
+# AI-readable site summary: https://cleancleancommercialcleaning.netlify.app/llms.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://cleancleancommercialcleaning.netlify.app/sitemap.xml

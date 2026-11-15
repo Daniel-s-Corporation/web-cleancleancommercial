@@ -1,0 +1,36 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Pages moved into /pages — keep the old URLs working
+[[redirects]]
+  from = "/privacy-policy.html"
+  to = "/pages/privacy-policy.html"
+  status = 301
+
+[[redirects]]
+  from = "/cookie-policy.html"
+  to = "/pages/cookie-policy.html"
+  status = 301
+
+[[redirects]]
+  from = "/thank-you.html"
+  to = "/pages/thank-you.html"
+  status = 301
+
+# Custom not-found page (must stay last)
+[[redirects]]
+  from = "/*"
+  to = "/pages/404.html"
+  status = 404

@@ -1,0 +1,31 @@
+# Clean Clean Commercial Cleaning
+
+> Family-owned commercial cleaning company with 5+ years of experience, providing office cleaning, commercial janitorial services, and customized cleaning plans for businesses in Bradenton, Sarasota, Lakewood Ranch, Palmetto, and surrounding areas of Florida (USA). Tagline: "Clean Space. Better Business."
+
+Clean Clean serves offices, retail stores, medical and professional offices, and other commercial facilities. Every client gets a customized cleaning plan, with flexible scheduling that includes after-hours and weekend cleaning. The team is background-checked, trained, and fully insured, uses eco-friendly products, and offers a 100% satisfaction guarantee. Quotes are free and carry no obligation.
+
+- Phone / text: +1 941-259-9604
+- WhatsApp: https://wa.me/19412599604
+- Email: cleancleancommercialcleaning@gmail.com
+- Instagram: https://www.instagram.com/clean_clean_commercial
+- Service area: Bradenton, Sarasota, Lakewood Ranch, Palmetto & surrounding areas, Florida, USA
+- Clients: businesses (commercial cleaning)
+
+## Main pages
+
+- [Home](https://cleancleancommercialcleaning.netlify.app/): company overview, services, why choose us, gallery, service areas, and the free quote request form
+- [About](https://cleancleancommercialcleaning.netlify.app/#about): family-owned company history, mission, and approach
+- [Services](https://cleancleancommercialcleaning.netlify.app/#services): office cleaning, commercial janitorial services, retail & storefront cleaning, medical & professional offices, customized cleaning plans, after-hours & weekend cleaning
+- [Why Choose Us](https://cleancleancommercialcleaning.netlify.app/#why-us): background-checked team, fully insured, satisfaction guarantee, eco-friendly products, flexible scheduling
+- [Gallery](https://cleancleancommercialcleaning.netlify.app/#gallery): video and photos of the team at work
+- [Service Areas](https://cleancleancommercialcleaning.netlify.app/#areas): Bradenton, Sarasota, Lakewood Ranch, Palmetto, and surrounding areas
+- [Contact / Free Quote](https://cleancleancommercialcleaning.netlify.app/#contact): request a free quote by form, phone, WhatsApp, email, or Instagram
+
+## Legal
+
+- [Privacy Policy](https://cleancleancommercialcleaning.netlify.app/pages/privacy-policy.html): how personal information is collected, used, and protected; privacy rights for Florida and other US residents
+- [Cookie Policy](https://cleancleancommercialcleaning.netlify.app/pages/cookie-policy.html): cookies and tracking technologies used on the site and how to manage them
+
+## Optional
+
+- [Sitemap](https://cleancleancommercialcleaning.netlify.app/sitemap.xml): XML sitemap of all indexable pages
